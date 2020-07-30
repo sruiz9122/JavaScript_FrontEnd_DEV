@@ -10,14 +10,16 @@ JavaScript es un lenguaje muy poderoso.
 En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para pasar de cero a rockstar.
 
 **Esto es una negrita**
+
 *Esto es una itálica*
+
 **_Esto es una negrita con itálica_**
 
 > Esto es una cita
 
 > Este es el primer párrafo
- >
-  > Este es el último párrafo
+    >
+        > Este es el último párrafo
 
 1. Primer item
 2. Segundo item
@@ -27,8 +29,8 @@ En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para pasar d
 * Item
 * Item
 
-´´
+``
     var name = 'Escuela de Javascript'
 
     console.log(name)
-´´
+``
