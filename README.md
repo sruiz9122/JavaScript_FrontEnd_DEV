@@ -31,10 +31,9 @@ En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para pasar d
 
 ``
 var name = 'Escuela de Javascript'
+
+console.log(name)
 ``
-
-    console.log(name)
-
 
 Cómo escribir un buen README
 No hay un estándar sobre cómo escribir un buen README, cada proyecto es diferente y depende de cada uno. Pero hay ciertas partes que sí o sí debería contener un buen README.
