@@ -32,7 +32,6 @@ En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para pasar d
 
 
 ``var name = 'Escuela de Javascript'
-
 console.log(name)``
 
 
