@@ -30,9 +30,11 @@ En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para pasar d
 * Item
 
 ``
+
 var name = 'Escuela de Javascript'
 
 console.log(name)
+
 ``
 
 Cómo escribir un buen README
