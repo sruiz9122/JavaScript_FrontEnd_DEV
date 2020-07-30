@@ -57,4 +57,5 @@ Cómo contribuir: si es un proyecto open source se describe acá la forma en la 
 Licencia: muestra la licencia que tiene el proyecto.
 En formato markdown podemos escribir cada uno de los items de esta manera:
 
+Ejemplo:
 *https://platzi.com/clases/1650-prework/21969-como-crear-un-buen-readmemd-y-sintaxis-de-markdown/*
