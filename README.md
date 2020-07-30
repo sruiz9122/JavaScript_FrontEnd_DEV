@@ -14,15 +14,19 @@ En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para pasar d
 **_Esto es una negrita con itálica_**
 
 > Esto es una cita
+
 > Este es el primer párrafo
 >
 > Este es el último párrafo
 
-Primer item
-Segundo item
-Tercer item
+1. Primer item
+2. Segundo item
+3. Tercer item
 
-Item
-Item
-Item
+* Item
+* Item
+* Item
 
+    var name = 'Escuela de Javascript'
+
+    console.log(name)
