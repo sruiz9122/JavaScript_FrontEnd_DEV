@@ -17,9 +17,9 @@ En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para pasar d
 
 > Esto es una cita
 
-> Este es el primer párrafo
+>Este es el primer párrafo
 >
->    Este es el último párrafo
+>Este es el último párrafo
 
 1. Primer item
 2. Segundo item
